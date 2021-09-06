@@ -1,5 +1,3 @@
-# Chatbot-Covid-Helper
-#This is a chatbot which answers common questions related to covid-19. This chatbot is FAQ based.
 <script
 src="https://cdn.cai.tools.sap/webclient/bootstrap.js"
 data-channel-id="f05770c8-0bff-4323-84b5-8163fa5d8c29"
